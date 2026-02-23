@@ -1,9 +1,9 @@
 ---
-title: Engineer
-institute: Company A
-institute-url: https://academicportfolio.github.io/
-duration: 2022 - Present
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+title: Assistant Professor (Guest)
+institute: Goa College of Engineering, Farmagudi
+institute-url: https://www.gec.ac.in/
+duration: Jan 2017 - Dec 2017
+excerpt: Provide under-graduate students a basic understanding of fluid mechanics. Guidance for under-graduate students to perform experiments in the Heat and Mass Transfer lab.
 order: 1
-tags: [Kotlin, Jetpack Compose, NodeJS]
+tags: [Lecturer]
 ---
