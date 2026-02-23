@@ -1,9 +1,9 @@
 ---
-title: Engineer
-institute: Company B
-institute-url: https://github.com/academicportfolio/
-duration: 2020 - 2022
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-order: 2
-tags: [Skill A, Skill B, Skill C]
+title: Postdoctoral Researcher
+institute: Florida State University
+institute-url: https://ame.fsu.edu/
+duration: 2023 - present
+excerpt: Investigation of transition characteristics of flight-relevant forebody geometries through high-fidelity numerical simulations. Designed numerical experiments using the computational tools to evaluate the impact of nose–body geometry on boundary layer transition for real-world aerospace applications. Numerical investigation of modulation of turbulent boundary layer structure by texture elements and assessed their impact on total drag.
+order: 1
+tags: [DNS, Coding, Turbulent Transition ]
 ---
