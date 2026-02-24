@@ -1,8 +1,8 @@
 ---
-title: My Second Project
+title: Impact of surface texture elements on turbulent boundary layer drag characteristics (Post-doctoral work)
 layout: project
-year: 2020
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-tags: [HTML, CSS, JavaScript]
+year: 2023-present
+excerpt: High-fidelity simulations are used to evaluate the efficacy of surface texture elements in reducing the turbulent skin-friction drag over a flat-plate configuration. The study solves the compressible Navier–Stokes equations with an artificial compressibility formulation to model incompressible flow, with surface texture elements implemented using an immersed boundary method.
+tags: [DNS code, Matlab, Fieldview, Tecplot 360]
 comments: false
 ---
