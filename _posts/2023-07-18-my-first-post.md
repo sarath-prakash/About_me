@@ -6,7 +6,7 @@ excerpt:
 featured: https://placehold.co/600x400
 ---
 
-## Heading 2
+### Heading 2
 
 ### Heading 3
 
