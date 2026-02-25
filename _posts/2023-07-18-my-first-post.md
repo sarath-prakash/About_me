@@ -2,7 +2,7 @@
 title: My First Post
 layout: post
 category: Uncategorized
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: 
 featured: https://placehold.co/600x400
 ---
 
