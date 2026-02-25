@@ -1,12 +1,8 @@
 ---
-title: My First Publication
-year: 2018
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-pub-image: https://placehold.co/600x300
-pub-url: https://researchgate.net
+title: An investigation of bluff body flow structures in variable velocity flows
+year: 2022
+excerpt: This work explores the three-dimensional vortex-dynamics past a wall-attached bluff body kept in a variable velocity field using direct numerical simulations. A trapezoidal pulse of mean velocity, consisting of acceleration phase from rest followed by constant velocity phase and deceleration phase to rest, is imposed at the inlet of the computational domain. The flow evolution starts with the formation of a primary vortex followed by a two-dimensional circular array of spanwise vortex tubes by inflectional shear-layer instability. At a sufficiently high Reynolds number, the shear layer vortices originated from two-dimensional fluctuations deformed by three-dimensional instabilities, giving fragmented streamwise vorticity. The distinct flow features, including mode shape, frequency, and growth rate associated with the shear-layer instability, are identified using the dynamic mode decomposition (DMD) algorithm. Using the maximum growth rate criteria, the DMD technique successfully separates the coherent shear layer modes associated with two-dimensional shear layer instability from the flow field.
+pub-image: 
+pub-url: https://doi.org/10.1063/5.0083743
 comments: true
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
