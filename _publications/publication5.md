@@ -1,0 +1,8 @@
+---
+title: Asymmetric PCM melting and thermal convection in a rectangular enclosure with straight and wavy heat transfer passages
+year: 2023
+excerpt: Experimental and numerical investigations of thermal convection in the vicinity of a straight and wavy horizontal heat transfer fluid passage (HTF)s placed in a rectangular enclosure filled with phase change material (PCM) are presented. The enthalpy-porosity-based finite volume solver is used to simulate the spatiotemporal evolution of the thermal convection, which is well-complemented by experimental visualization and thermocouple measurements. Heat transfer from the horizontal HTF exhibits asymmetrical melting. Heat diffusion is the dominating energy transfer mechanism on the bottom part of the HTF passage and is compared with the Stefan problem. The temporal evolution of thermal convection on the top part of HTF passage involves three distinct phases of melting, viz. initial conduction phase, Rayleigh–Bénard (R-B) convection with linear convection, and vortex coalescence effects. The final stage of the melting process is influenced by the topography of a peninsula of unmelt PCM, which is influenced by specific top-boundary conditions. Thermal convection in PCM above the wavy HTF passage exhibits restricted plume development leading to an improved melting rate and a higher average melt height. 
+pub-image: 
+pub-url: https://doi.org/10.1016/j.ijheatmasstransfer.2023.124625
+comments: true
+---
